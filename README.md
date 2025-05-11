@@ -1,11 +1,11 @@
-# Curso de Inteligência Artificial 🧠
+# Curso de Inteligência Artificial 
 
-Bem-vindo ao repositório do **Curso de Inteligência Artificial**, desenvolvido com foco em aprendizado prático utilizando **Python** e **Jupyter Notebooks**.
+Bem-vindo ao repositório do **Curso de Inteligência Artificial**, para  desenvolvimento com foco em aprendizado prático utilizando para criaçao de uma Inteligencia Artificial **Python** e **Jupyter Notebooks**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📚 Sobre o Repositório
+## Sobre o Repositório
 
 Este repositório contém:
 
@@ -18,7 +18,7 @@ Este repositório contém:
 
 - Python 3.x
 - Jupyter Notebooks
-- Bibliotecas como NumPy, Pandas, Scikit-learn, Matplotlib e outras
+- Bibliotecas como NumPy, Pandas,Matplotlib e outras
 
 ##  Objetivo
 
@@ -37,10 +37,12 @@ README.md         # Este arquivo
 
 Fique à vontade para entrar em contato ou acompanhar o autor:
 
-- [GitHub](https://github.com/seuusuario)
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- [GitHub](https://github.com/jesieldossantos)
+- [LinkedIn](https://www.linkedin.com/in/jesiel-dos-santos-54478422b/)
+- [Instagram](https://www.instagram.com/jesieldossantos_/)
 
 ---
 
 > Este projeto está em constante desenvolvimento. Contribuições são bem-vindas!
 
+# Volte para ver as atualizações do projeto

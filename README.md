@@ -45,4 +45,4 @@ Fique à vontade para entrar em contato ou acompanhar o autor:
 
 > Este projeto está em constante desenvolvimento. Contribuições são bem-vindas!
 
-# Volte para ver as atualizações do projeto
+# Volte para ver novas atualizações do projeto

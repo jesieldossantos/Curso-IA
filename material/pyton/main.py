@@ -14,7 +14,7 @@ def main(page: ft.Page):
       label='Digite seu cep'
    )
       
-   page.add(campo_cep
+   page.add(campo_cep)
     
 
 ft.app(main)

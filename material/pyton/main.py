@@ -18,7 +18,7 @@ def main(page: ft.Page):
     )
 
     campo_cep = ft.TextField(
-        hint_text='Digite seu CEP',
+        label='Digite seu CEP',
         width=250,
         text_align=ft.TextAlign.LEFT,
         hint_style=ft.TextStyle(color=ft.Colors.YELLOW),
